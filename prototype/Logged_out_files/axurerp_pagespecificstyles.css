@@ -189,7 +189,7 @@ div {
 .u10 {
     position:absolute;
     left:120px;
-    top:617px;
+    top:601px;
     width:310px;
     height:88px;
     ;
@@ -203,7 +203,7 @@ div {
 .u11 {
     position:absolute;
     left:575px;
-    top:617px;
+    top:601px;
     width:310px;
     height:88px;
     ;
@@ -217,7 +217,7 @@ div {
 .u12 {
     position:absolute;
     left:120px;
-    top:757px;
+    top:741px;
     width:310px;
     height:88px;
     ;
@@ -231,7 +231,7 @@ div {
 .u13 {
     position:absolute;
     left:575px;
-    top:757px;
+    top:741px;
     width:310px;
     height:88px;
     ;
@@ -340,7 +340,7 @@ div {
 #u20 {
     position:absolute;
     left:10px;
-    top:620px;
+    top:604px;
     width:101px;
     height:101px;
     overflow:hidden;
@@ -435,7 +435,7 @@ div {
 #u26 {
     position:absolute;
     left:465px;
-    top:620px;
+    top:604px;
     width:101px;
     height:101px;
     overflow:hidden;
@@ -530,7 +530,7 @@ div {
 #u32 {
     position:absolute;
     left:465px;
-    top:750px;
+    top:734px;
     width:101px;
     height:101px;
     overflow:hidden;
@@ -625,7 +625,7 @@ div {
 #u38 {
     position:absolute;
     left:10px;
-    top:750px;
+    top:734px;
     width:101px;
     height:101px;
     overflow:hidden;
@@ -733,7 +733,7 @@ div {
 #u45 {
     position:absolute;
     left:10px;
-    top:620px;
+    top:604px;
     width:420px;
     height:100px;
     ;
@@ -746,7 +746,7 @@ div {
 #u46 {
     position:absolute;
     left:10px;
-    top:750px;
+    top:734px;
     width:420px;
     height:100px;
     ;
@@ -772,7 +772,7 @@ div {
 #u48 {
     position:absolute;
     left:465px;
-    top:621px;
+    top:605px;
     width:420px;
     height:100px;
     ;
@@ -785,7 +785,7 @@ div {
 #u49 {
     position:absolute;
     left:465px;
-    top:751px;
+    top:735px;
     width:420px;
     height:100px;
     ;
@@ -1035,19 +1035,37 @@ div {
     word-wrap:break-word;
 }
 
-.u68_normal {
-    background-image: url('../Form_Bar_files/u68_normal.png');
-}
-
-.u68_container {
+#u68 {
     position:absolute;
     left:10px;
     top:353px;
+    width:446px;
+    height:34px;
+    overflow:hidden;
+}
+
+#pd1u68 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:446px;
+    height:34px;
+    
+}
+
+.u69_normal {
+    background-image: url('../Form___signup___username_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:0px;
     width:445px;
     height:33px;
 }
 
-#u68_img {
+#u69_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1055,7 +1073,7 @@ div {
     height:39px;
 }
 
-.u69 {
+.u70 {
     position:absolute;
     left:2px;
     top:8px;
@@ -1069,32 +1087,12 @@ div {
     word-wrap:break-word;
 }
 
-.u70_normal {
-    background-image: url('../Form_Bar_files/u70_normal.png');
-}
-
-.u70_container {
-    position:absolute;
-    left:10px;
-    top:396px;
-    width:285px;
-    height:33px;
-}
-
-#u70_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:291px;
-    height:39px;
-}
-
 .u71 {
     position:absolute;
-    left:2px;
-    top:8px;
-    width:281px;
-    height:16px;
+    left:294px;
+    top:6px;
+    width:150px;
+    height:21px;
     ;
     ;
     ;
@@ -1103,15 +1101,24 @@ div {
     word-wrap:break-word;
 }
 
+#pd0u68 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:446px;
+    height:34px;
+    
+}
+
 .u72_normal {
-    background-image: url('../Form_Bar_files/u70_normal.png');
+    background-image: url('../Form___signup___username_files/u72_normal.png');
 }
 
 .u72_container {
     position:absolute;
-    left:310px;
-    top:396px;
-    width:285px;
+    left:0px;
+    top:0px;
+    width:445px;
     height:33px;
 }
 
@@ -1119,11 +1126,143 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:291px;
+    width:451px;
     height:39px;
 }
 
 .u73 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:441px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:294px;
+    top:6px;
+    width:150px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u75 {
+    position:absolute;
+    left:24px;
+    top:357px;
+    width:151px;
+    height:24px;
+    overflow:hidden;
+}
+
+#pd2u75 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:24px;
+    
+}
+
+#pd1u75 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:24px;
+    
+}
+
+.u76 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u75 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:24px;
+    
+}
+
+.u77 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:20px;
+    top:357px;
+    width:430px;
+    height:25px;
+    ;
+    background-color:transparent;
+    background-image: url(../resources/images/transparent.gif);;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 20px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    border-color:transparent;
+    outline-style:none;
+}
+
+.u80_normal {
+    background-image: url('../Form_Bar_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:10px;
+    top:396px;
+    width:285px;
+    height:33px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:291px;
+    height:39px;
+}
+
+.u81 {
     position:absolute;
     left:2px;
     top:8px;
@@ -1137,11 +1276,45 @@ div {
     word-wrap:break-word;
 }
 
-.u74_normal {
-    background-image: url('../Form_Bar_files/u74_normal.png');
+.u82_normal {
+    background-image: url('../Form_Bar_files/u80_normal.png');
 }
 
-.u74_container {
+.u82_container {
+    position:absolute;
+    left:310px;
+    top:396px;
+    width:285px;
+    height:33px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:291px;
+    height:39px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:281px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../Form_Bar_files/u84_normal.png');
+}
+
+.u84_container {
     position:absolute;
     left:640px;
     top:367px;
@@ -1149,7 +1322,7 @@ div {
     height:43px;
 }
 
-#u74_img {
+#u84_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1157,7 +1330,7 @@ div {
     height:49px;
 }
 
-.u75 {
+.u85 {
     position:absolute;
     left:2px;
     top:10px;
@@ -1171,7 +1344,7 @@ div {
     word-wrap:break-word;
 }
 
-.u76 {
+.u86 {
     position:absolute;
     left:710px;
     top:414px;
@@ -1185,11 +1358,11 @@ div {
     word-wrap:break-word;
 }
 
-.u78_normal {
-    background-image: url('../Footer_files/u78_normal.png');
+.u88_normal {
+    background-image: url('../Footer_files/u88_normal.png');
 }
 
-.u78_container {
+.u88_container {
     position:absolute;
     left:0px;
     top:868px;
@@ -1197,7 +1370,7 @@ div {
     height:25px;
 }
 
-#u78_img {
+#u88_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1205,7 +1378,7 @@ div {
     height:31px;
 }
 
-.u79 {
+.u89 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1219,7 +1392,7 @@ div {
     word-wrap:break-word;
 }
 
-.u80 {
+.u90 {
     position:absolute;
     left:10px;
     top:873px;
@@ -1233,7 +1406,7 @@ div {
     word-wrap:break-word;
 }
 
-.u81 {
+.u91 {
     position:absolute;
     left:639px;
     top:873px;
@@ -1247,7 +1420,7 @@ div {
     word-wrap:break-word;
 }
 
-.u82 {
+.u92 {
     position:absolute;
     left:679px;
     top:873px;
@@ -1261,7 +1434,7 @@ div {
     word-wrap:break-word;
 }
 
-.u83 {
+.u93 {
     position:absolute;
     left:739px;
     top:873px;
@@ -1275,7 +1448,7 @@ div {
     word-wrap:break-word;
 }
 
-.u84 {
+.u94 {
     position:absolute;
     left:833px;
     top:873px;
