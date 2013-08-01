@@ -2,7 +2,7 @@
 
 (function() {
     var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
-    var _creator = function() { return _(b,[_(c,d,e,f,g,h,i,[_(c,j,e,k,g,l,i,[_(c,m,e,f,g,n),_(c,o,e,f,g,p),_(c,q,e,f,g,r),_(c,s,e,f,g,t)]),_(c,u,e,k,g,v,i,[_(c,w,e,f,g,x)])])]);}; 
-var b="rootNodes",c="pageName",d="Existing Homepage",e="type",f="Wireframe",g="url",h="Existing_Homepage.html",i="children",j="Logged out states",k="Flow",l="Logged_out_states.html",m="Create Your Space",n="Create_Your_Space.html",o="Create Your Space - OpenID",p="Create_Your_Space___OpenID.html",q="Login",r="Login.html",s="Login - OpenID",t="Login___OpenID.html",u="Logged in states",v="Logged_in_states.html",w="Logged in",x="Logged_in.html";
+    var _creator = function() { return _(b,[_(c,d,e,f,g,h,i,[_(c,j,e,f,g,k),_(c,l,e,f,g,m),_(c,n,e,o,g,p,i,[_(c,q,e,f,g,r),_(c,s,e,f,g,t),_(c,u,e,f,g,v),_(c,w,e,f,g,x)]),_(c,y,e,o,g,z,i,[_(c,A,e,f,g,B)])])]);}; 
+var b="rootNodes",c="pageName",d="Existing Homepage Prototype",e="type",f="Wireframe",g="url",h="Existing_Homepage_Prototype.html",i="children",j="Existing Homepage Flow",k="Existing_Homepage_Flow.html",l="FrontPage Annotated Wireframe",m="FrontPage_Annotated_Wireframe.html",n="Logged out states",o="Flow",p="Logged_out_states.html",q="Create Your Space",r="Create_Your_Space.html",s="Create Your Space - OpenID",t="Create_Your_Space___OpenID.html",u="Login",v="Login.html",w="Login - OpenID",x="Login___OpenID.html",y="Logged in states",z="Logged_in_states.html",A="Logged in",B="Logged_in.html";
 return _creator();
 })();
