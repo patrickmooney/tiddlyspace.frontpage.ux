@@ -1213,7 +1213,7 @@ div {
 }
 
 .u80_normal {
-    background-image: url('../Logged_In_1_files/u80_normal.png');
+    background-image: url('../Logged_In_files/u80_normal.png');
 }
 
 .u80_container {
@@ -3110,5 +3110,18 @@ div {
     text-decoration:none;
     border-color:transparent;
     outline-style:none;
+}
+
+#u197 {
+    position:absolute;
+    left:360px;
+    top:893px;
+    width:50px;
+    height:90px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
 }
 
