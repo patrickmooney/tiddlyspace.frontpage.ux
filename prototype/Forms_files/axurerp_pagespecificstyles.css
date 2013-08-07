@@ -1107,3 +1107,428 @@ div {
     
 }
 
+.u65_normal {
+    background-image: url('../Forms_files/u65_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:10px;
+    top:840px;
+    width:420px;
+    height:210px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:216px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:30px;
+    top:855px;
+    width:70px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../Forms_files/u68_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:30px;
+    top:894px;
+    width:390px;
+    height:40px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:396px;
+    height:46px;
+}
+
+.u69 {
+    position:absolute;
+    left:10px;
+    top:11px;
+    width:378px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../Forms_files/u68_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:30px;
+    top:944px;
+    width:390px;
+    height:40px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:396px;
+    height:46px;
+}
+
+.u71 {
+    position:absolute;
+    left:10px;
+    top:11px;
+    width:378px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../Forms_files/u15_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:310px;
+    top:994px;
+    width:110px;
+    height:40px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:46px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:106px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:210px;
+    top:1006px;
+    width:90px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:242px;
+    top:856px;
+    width:23px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:260px;
+    top:855px;
+    width:157px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../Forms_files/u65_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:460px;
+    top:840px;
+    width:420px;
+    height:210px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:426px;
+    height:216px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:416px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:480px;
+    top:855px;
+    width:190px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../Forms_files/u5_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:480px;
+    top:894px;
+    width:260px;
+    height:40px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:266px;
+    height:46px;
+}
+
+.u81 {
+    position:absolute;
+    left:10px;
+    top:11px;
+    width:248px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../Forms_files/u68_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:480px;
+    top:944px;
+    width:390px;
+    height:40px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:396px;
+    height:46px;
+}
+
+.u83 {
+    position:absolute;
+    left:10px;
+    top:11px;
+    width:378px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../Forms_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:680px;
+    top:994px;
+    width:190px;
+    height:40px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:196px;
+    height:46px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:186px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:776px;
+    top:856px;
+    width:23px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87 {
+    position:absolute;
+    left:800px;
+    top:855px;
+    width:67px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../Forms_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:710px;
+    top:894px;
+    width:160px;
+    height:40px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:46px;
+}
+
+.u89 {
+    position:absolute;
+    left:5px;
+    top:11px;
+    width:153px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_line {
+    background-image: url('../Forms_files/u90_line.png');
+}
+
+.u90_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:1050px;
+    height:3px;
+}
+
+.u90 {
+    position:absolute;
+    left:10px;
+    top:800px;
+    width:1050px;
+    height:10px;
+    
+}
+
