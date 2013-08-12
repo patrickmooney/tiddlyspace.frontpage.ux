@@ -4,7 +4,7 @@ $axure.eventManager.pageLoad(
 function (e) {
 
 if (true) {
-function waitu1b0a970d11b24ddb81bb842230e19dac1() {
+function waitu027239ccb85e43abb530dd913a4184411() {
 
 SetWidgetRichText('u7', '<p style="text-align:center;"><span style="font-family:Arial;font-size:11px;font-weight:normal;font-style:normal;text-decoration:none;color:#666666;">1 minute ago</span></p>');
 
@@ -21,7 +21,7 @@ SetWidgetRichText('u27', '<p style="text-align:center;"><span style="font-family
 	SetPanelVisibility('u33','','fade',500);
 
 	MoveWidgetBy('u33', GetNum('-322'), GetNum('0'),'linear',500);
-function waitubec87880a8af418ebf082e154f2c16221() {
+function waitua8ecd0588ad34b8c8f1941d4120016c21() {
 
 	MoveWidgetBy('u3', GetNum('0'), GetNum('72'),'linear',500);
 
@@ -45,9 +45,9 @@ SetWidgetRichText('u37', '<p style="text-align:center;"><span style="font-family
 
 	MoveWidgetBy('u43', GetNum('-324'), GetNum('0'),'linear',500);
 }
-setTimeout(waitubec87880a8af418ebf082e154f2c16221, 5000);
+setTimeout(waitua8ecd0588ad34b8c8f1941d4120016c21, 10000);
 }
-setTimeout(waitu1b0a970d11b24ddb81bb842230e19dac1, 1000);
+setTimeout(waitu027239ccb85e43abb530dd913a4184411, 5000);
 
 }
 
