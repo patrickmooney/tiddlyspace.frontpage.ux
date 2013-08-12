@@ -1,15 +1,17 @@
-﻿for(var i = 0; i < 55; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 56; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u50'] = 'center';u53.tabIndex = 0;
+gv_vAlignTable['u50'] = 'center';u54.tabIndex = 0;
 
-u53.style.cursor = 'pointer';
-$axure.eventManager.click('u53', function(e) {
+u54.style.cursor = 'pointer';
+$axure.eventManager.click('u54', function(e) {
 
 if (true) {
+
+	SetPanelVisibility('u53','hidden','none',500);
 
 SetWidgetRichText('u7', '<p style="text-align:center;"><span style="font-family:Arial;font-size:11px;font-weight:normal;font-style:normal;text-decoration:none;color:#666666;">1 minute ago</span></p>');
 
@@ -26,7 +28,7 @@ SetWidgetRichText('u27', '<p style="text-align:center;"><span style="font-family
 	SetPanelVisibility('u33','','fade',500);
 
 	MoveWidgetBy('u33', GetNum('-322'), GetNum('0'),'linear',500);
-function waitu0e8a92b27eb740f0ae134cfd798d59371() {
+function waituabcd7dbbb0bb4d15ae2b1664f4fbbe391() {
 
 	MoveWidgetBy('u3', GetNum('0'), GetNum('72'),'linear',500);
 
@@ -49,8 +51,10 @@ SetWidgetRichText('u37', '<p style="text-align:center;"><span style="font-family
 	SetPanelVisibility('u43','','fade',500);
 
 	MoveWidgetBy('u43', GetNum('-324'), GetNum('0'),'linear',500);
+
+	SetPanelVisibility('u53','hidden','none',500);
 }
-setTimeout(waitu0e8a92b27eb740f0ae134cfd798d59371, 10000);
+setTimeout(waituabcd7dbbb0bb4d15ae2b1664f4fbbe391, 5000);
 
 }
 });
