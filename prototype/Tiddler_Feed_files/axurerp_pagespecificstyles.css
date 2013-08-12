@@ -1004,3 +1004,16 @@ div {
 
 }
 
+#u53 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:328px;
+    height:230px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
