@@ -123,3 +123,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Sample_A_files/u56_normal.png");
 }
 
+* html .u58_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Sample_A_files/u58_normal.png");
+}
+

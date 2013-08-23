@@ -1,45 +1,30 @@
-﻿* html .u2_start {
+﻿* html .u0_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u2_start.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u0_normal.png");
 }
 
-* html .u2_end {
+* html .u2_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u2_end.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u2_normal.png");
 }
 
-* html .u2_line {
+* html .u4_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u2_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u4_normal.png");
 }
 
-* html .u4_start {
+* html .u6_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u4_start.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u6_normal.png");
 }
 
-* html .u4_end {
+* html .u8_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u4_end.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u6_normal.png");
 }
 
-* html .u4_line {
+* html .u10_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u4_line.png");
-}
-
-* html .u7_start {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u7_start.png");
-}
-
-* html .u7_end {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u7_end.png");
-}
-
-* html .u7_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u7_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="New_Page_1_1_files/u6_normal.png");
 }
 
